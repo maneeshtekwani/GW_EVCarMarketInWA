@@ -21,4 +21,5 @@ Problem Statement: "How can established car manufacturing companies, seeking to 
   
 **Citations:**
 data_m2.csv, cars_us_22.csv, ccarprice.com 2022/2023 new cars. validated web scrape by Tymoteusz Urban, WUT, Warsaw, Poland. h\ps://www.kaggle.com/datasets/sidharth178/car-prices-dataset. Open Data Commons Open Database License.
+
 Electric Vehicle Popula8on Data. Washington State Department of Licensing, Research and Analysis Office (Updated September 14, 2023), h\ps://data.wa.gov/Transporta8on/Electric-Vehicle-Popula8on- Data/f6w7-q2d2. Open Data Commons Open Database License.
